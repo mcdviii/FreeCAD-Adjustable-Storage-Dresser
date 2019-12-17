@@ -39,4 +39,4 @@ a storage dresser & drawers. Additional goals are:
 
 ## License:
 
-All items in this project are released under the [GNU v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
+All items in this project are released under the [GNU GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
