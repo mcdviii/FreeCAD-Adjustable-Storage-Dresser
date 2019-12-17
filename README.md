@@ -25,7 +25,7 @@ a storage dresser & drawers. Additional goals are:
   - Drawer Count Up
   - Drawer Count Across 
 
-## ToDO:
+## ToDo:
 
 - [ ] Fix "Dresser Side" sketch so that it conforms to the rest of the dresser
       solid dimensions.
