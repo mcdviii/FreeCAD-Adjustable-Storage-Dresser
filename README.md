@@ -28,7 +28,10 @@ a storage dresser & drawers. Additional goals are:
 
 ## ToDO:
 
-- [ ] Finish adding all relavant constraints, re-adding constraints as necessary.
+- [ ] Fix "Dresser Side" sketch so that it conforms to the rest of the dresser
+      solid dimensions.
+- [ ] Finish adding all relavant constraints to all solids, re-adding or
+      removing constraints as necessary.
 - [ ] Clean up spreadsheet calculations (remove redundancy).
 - [ ] Confirm placement of each solid is calculated through its neighbor, in such a way that
       changing dimensions doesn't shift parts closer (or further away) from its neighbor.
