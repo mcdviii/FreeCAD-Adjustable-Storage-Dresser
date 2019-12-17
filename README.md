@@ -33,4 +33,4 @@ a storage dresser & drawers. Additional goals are:
 - [ ] Confirm placement of each solid is calculated through its neighbor, in such a way that
       changing dimensions doesn't shift parts closer (or further away) from its neighbor.
 - [ ] Tie drawer number to some kind of array mechanism, so that shelf count
-      can be added through the spreadsheet.
+      & dresser width can be added through the spreadsheet.
