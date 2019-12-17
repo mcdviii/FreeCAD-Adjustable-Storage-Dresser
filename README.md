@@ -13,13 +13,14 @@ a storage dresser & drawers. Additional goals are:
 - Adjustable for all material thicknesses.
 - Fully automated tab depth adjustment (changing material thickness changes tab
   depth by default).
-- All dimensions kept in an associated spreadsheet for easy repurposing.
+- All dimensions kept in an associated spreadsheet for easy adjustment & repurposing.
 - Shapes should hold true under any input dimension.
 - All fitment features (such as tab width & drawer depth) should automatically
   be calculated from:
   - Dresser Height
   - Dresser Width
   - Dresser Depth
+
   - Drawer Height
   - Drawer Width
   - Drawer Count Up
@@ -27,7 +28,7 @@ a storage dresser & drawers. Additional goals are:
 
 ## ToDO:
 
-- [ ] Finish adding all relavant constraints, readding constraints as necessary.
+- [ ] Finish adding all relavant constraints, re-adding constraints as necessary.
 - [ ] Clean up spreadsheet calculations (remove redundancy).
 - [ ] Confirm placement of each solid is calculated through its neighbor, in such a way that
       changing dimensions doesn't shift parts closer (or further away) from its neighbor.

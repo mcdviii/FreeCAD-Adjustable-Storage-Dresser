@@ -1,0 +1,19 @@
+Instructions: 
+	All dimensions are in inches.
+Universal:
+ Description:	Material-Thickness:		Cut Depth:	Dresser Side Spacing:		Dresser Horizontal Spacing:		Drawer Front X & Y Placement:		Drawer Back X & Y Placement:		Drawer Bottom X & Y Placement:		Drawer Side X & Y Placement:
+Base Dim:	12.7		15.24	647.7		666.75		1219.2	539.75	1219.2	831.85	571.5	673.1	876.3	673.1
+
+Dresser:
+ Description:			Height:	Width:	Depth:	Dovetail Side:	Dovetail Back:	Top Shelf Heigh:	3rd Shelf Height:	2nd Shelf Height:	Bottom Shelf Height:
+Base Dim:			228.6	812.8	457.2	152.4	270.933	139.7	215.9	215.9	215.9
+Divide in half to compensate for mirror:				406.4			135.467
+"Remove 1/16\" for tab fitment:"						150.8	133.866
+
+
+
+Drawer:
+ Description:			Height:	Width:	Depth:	Dovetail Side:	Dovetail Back:	Handle Size:
+Base Dim:			254	254	444.5	111.125	127	38.1
+Divide in half to compensate for mirror:				127			63.5
+"Remove 1/16\" for tab fitment:"						109.525	61.8998
