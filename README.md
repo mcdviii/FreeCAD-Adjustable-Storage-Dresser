@@ -20,7 +20,6 @@ a storage dresser & drawers. Additional goals are:
   - Dresser Height
   - Dresser Width
   - Dresser Depth
-
   - Drawer Height
   - Drawer Width
   - Drawer Count Up
@@ -37,3 +36,7 @@ a storage dresser & drawers. Additional goals are:
       changing dimensions doesn't shift parts closer (or further away) from its neighbor.
 - [ ] Tie drawer number to some kind of array mechanism, so that shelf count
       & dresser width can be added through the spreadsheet.
+
+## License:
+
+All items in this project are released under the [GNU v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
