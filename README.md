@@ -1,14 +1,15 @@
-# FreeCAD Adjustable Storage Dresser
+# Depricated: Please visit [OpenCABINATE]()
 
 ## ATTENTION: This project is in the process of being depricated
 
-I'm scrapping this project in favor of a different workflow. I've found that
-a majority of this design can be easily replicated in the LCInterlocking Workbench.
+I'm scrapping this project in favor of a different workflow ([OpenCABINATE]()). I've found that
+a majority of this design can be easily replicated in the [LCInterlocking Workbench]().
 Therefore, I've decided to phase this project out while documenting a similar
 build with the aforementioned workbench. The goal will be to cover the knowledge
 gap for building a similar design from start-to-finish, along with pre-fabs &
-additional resources.
+additional resources. **These files will remain for the sake of posterity**.
 
+## FreeCAD Adjustable Storage Dresser
 
 Adjustable storage dresser designed in FreeCAD. Design inspired by a [drawing found on
 3axis.co](https://3axis.co/small-dresser-storage-mdf-4mm-8mmdxf-file/d1ledz7m/), created by YOANN.
