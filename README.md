@@ -7,6 +7,7 @@ a majority of this design can be easily replicated in the LCInterlocking Workben
 Therefore, I've decided to phase this project out while documenting a similar
 build with the aforementioned workbench. The goal will be to cover the knowledge
 gap for building a similar design from start-to-finish, along with pre-fabs &
+additional resources.
 
 
 Adjustable storage dresser designed in FreeCAD. Design inspired by a [drawing found on
